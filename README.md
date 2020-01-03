@@ -11,7 +11,8 @@ https://github.com/fukuball/Tom-Chang-Deep-Lyrics
 Tom_Chang_Deep_Lyrics.ipynb-LSTM文本產生模型，替換all_training_lyrics.txt，逗點用空白隔開，換行分句，^換文本，可用中文   
 ## 語音
 http://www.chiehfuchan.com/%E7%B0%A1%E5%96%AE%E5%88%A9%E7%94%A8-python-%E5%A5%97%E4%BB%B6-speechrecognition-%E9%80%B2%E8%A1%8C%E8%AA%9E%E9%9F%B3%E8%BE%A8%E8%AD%98/    
-TestGoogleTranslate.ipynb-利用api轉換文本語言     
+TestGoogleTranslate.ipynb-從錄音檔辨識成文字  
+TestGoogleTranslate2.ipynb-文字用語音說出成檔案  
 ## QnA
 https://www.youtube.com/watch?v=tW1TM8m429Q  
-WolframAlphaTest.py-需要先到對答網站註冊取得key  
+WolframAlphaTest.py-問答API，需要先到對答網站註冊取得key  
