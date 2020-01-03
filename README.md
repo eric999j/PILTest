@@ -12,3 +12,6 @@ Tom_Chang_Deep_Lyrics.ipynb-LSTM文本產生模型，替換all_training_lyrics.t
 ## 語音
 http://www.chiehfuchan.com/%E7%B0%A1%E5%96%AE%E5%88%A9%E7%94%A8-python-%E5%A5%97%E4%BB%B6-speechrecognition-%E9%80%B2%E8%A1%8C%E8%AA%9E%E9%9F%B3%E8%BE%A8%E8%AD%98/    
 TestGoogleTranslate.ipynb   
+## QnA
+https://www.youtube.com/watch?v=tW1TM8m429Q  
+WolframAlphaTest.py-需要先到對答網站註冊取得key  
