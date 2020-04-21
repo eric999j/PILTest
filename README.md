@@ -5,7 +5,9 @@
 https://www.cnblogs.com/wyl-0120/p/10823102.html  
 Photo.py-PIL可切割圖片    
 https://mp.weixin.qq.com/s/TEFenK3XyiltlMPQySQx1A  
-FirstDetection.py-ImageAI可辨識物件    
+FirstDetection.py-ImageAI可辨識物件  
+https://ithelp.ithome.com.tw/articles/10227263  
+Python圖片轉文字  
 ## 文
 https://github.com/fxsjy/jieba  
 jieba_cut.py-結巴分詞，半自動安裝，先下載 http://pypi.python.org/pypi/jieba/ ，解壓後運行 python setup.py install  
