@@ -7,9 +7,9 @@ Photo.py-PIL可切割圖片
 https://mp.weixin.qq.com/s/TEFenK3XyiltlMPQySQx1A  
 FirstDetection.py-ImageAI可辨識物件  
 https://ithelp.ithome.com.tw/articles/10227263  
-Python圖片轉文字 
-https://www.pcgamer.com/help-i-cant-stop-looking-at-this-ai-generated-version-of-bj-blazkowicz/
-Copy_of_Face_Depixelizer_Eng.ipynb-Style GAN將有碼圖轉高清  
+Python圖片轉文字   
+https://www.pcgamer.com/help-i-cant-stop-looking-at-this-ai-generated-version-of-bj-blazkowicz/  
+Copy_of_Face_Depixelizer_Eng.ipynb-StyleGAN將有碼圖轉高清  
 
 ## 文
 https://github.com/fxsjy/jieba  
