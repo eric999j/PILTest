@@ -10,6 +10,8 @@ https://ithelp.ithome.com.tw/articles/10227263
 Python圖片轉文字   
 https://www.pcgamer.com/help-i-cant-stop-looking-at-this-ai-generated-version-of-bj-blazkowicz/  
 Copy_of_Face_Depixelizer_Eng.ipynb-StyleGAN將有碼圖轉高清  
+https://cartoonize-lkqov62dia-de.a.run.app/cartoonize  
+相片卡通化  
 
 ## 文
 https://github.com/fxsjy/jieba  
