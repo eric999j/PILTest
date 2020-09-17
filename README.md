@@ -12,6 +12,9 @@ https://www.pcgamer.com/help-i-cant-stop-looking-at-this-ai-generated-version-of
 Copy_of_Face_Depixelizer_Eng.ipynb-StyleGAN將有碼圖轉高清  
 https://cartoonize-lkqov62dia-de.a.run.app/cartoonize  
 相片卡通化  
+https://www.codenong.com/cs105780846/  
+TIOBE_Word_Cloud.ipynb-TIOBE爬取趨勢且繪製互動圖表,會在google drive產生資料的csv,有空把它做成詞雲  
+
 
 ## 文
 https://github.com/fxsjy/jieba  
