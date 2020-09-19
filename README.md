@@ -13,8 +13,9 @@ Copy_of_Face_Depixelizer_Eng.ipynb-StyleGAN將有碼圖轉高清
 https://cartoonize-lkqov62dia-de.a.run.app/cartoonize  
 相片卡通化  
 https://www.codenong.com/cs105780846/  
-TIOBE_Word_Cloud.ipynb-TIOBE爬取趨勢且繪製互動圖表，會在google drive產生資料的programming.csv，並做成詞雲，存成圖片  
-
+TIOBE_Word_Cloud.ipynb-TIOBE爬取趨勢且繪製互動圖表，會在google drive產生資料的programming.csv，並做成詞雲，存成圖片    
+https://blog.csdn.net/sinat_29957455/article/details/85145488  
+Panda_Gif.ipynb-將gif重新取樣再整合回來  
 
 ## 文
 https://github.com/fxsjy/jieba  
