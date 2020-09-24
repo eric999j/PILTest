@@ -28,7 +28,10 @@ https://free.com.tw/lalal-ai/
 Song.md-人聲音樂分離  
 http://www.chiehfuchan.com/%E7%B0%A1%E5%96%AE%E5%88%A9%E7%94%A8-python-%E5%A5%97%E4%BB%B6-speechrecognition-%E9%80%B2%E8%A1%8C%E8%AA%9E%E9%9F%B3%E8%BE%A8%E8%AD%98/    
 TestGoogleTranslate.ipynb-從wav錄音檔辨識成文字  
-TestGoogleTranslate2.ipynb-文字用語音說出成mp3檔案  
+TestGoogleTranslate2.ipynb-文字用語音說出成wav檔案  
+https://clay-atlas.com/blog/2019/11/27/python-chinese-pytorch-tutorial-music-play-os-pygame/  
+python -m pip install pygame  
+music_player.py-不斷循環播放Google姊說貓熊  
 
 ## QnA
 https://www.youtube.com/watch?v=tW1TM8m429Q  
