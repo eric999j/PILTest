@@ -33,10 +33,11 @@ https://clay-atlas.com/blog/2019/11/27/python-chinese-pytorch-tutorial-music-pla
 python -m pip install pygame  
 music_player.py-不斷循環播放Google姊說貓熊  
 
-## QnA
+## 其他 
+QnA  
 https://www.youtube.com/watch?v=tW1TM8m429Q  
 WolframAlphaTest.py-問答API，需要先到對答網站註冊取得key  
 
-## API Server
+API Server  
 https://colab.research.google.com/github/gstaff/flask-ngrok/blob/master/examples/flask_ngrok_example.ipynb  
-Lottery.ipynb- flask_ngrok + flask每次不同抽獎號碼  
+Lottery.ipynb- flask_ngrok + flask 重新整理每次不同抽獎號碼  
