@@ -20,6 +20,8 @@ Panda_Gif.ipynb-將gif重新取樣再整合回來
 ## 文
 https://github.com/fxsjy/jieba  
 jieba_cut.py-結巴分詞，半自動安裝，先下載 http://pypi.python.org/pypi/jieba/ ，解壓後運行 python setup.py install  
+https://clay-atlas.com/blog/2019/09/25/python-chinese-tutorial-tokenizer-thulac/  
+NLP.ipynb-結巴跟CKIP使用  
 https://github.com/fukuball/Tom-Chang-Deep-Lyrics  
 Tom_Chang_Deep_Lyrics.ipynb-LSTM文本產生模型，替換all_training_lyrics.txt，逗點用空白隔開，換行分句，^換文本，可用中文   
 
