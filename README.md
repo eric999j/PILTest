@@ -24,6 +24,8 @@ https://clay-atlas.com/blog/2019/09/25/python-chinese-tutorial-tokenizer-thulac/
 NLP.ipynb-結巴跟CKIP使用  
 https://github.com/fukuball/Tom-Chang-Deep-Lyrics  
 Tom_Chang_Deep_Lyrics.ipynb-LSTM文本產生模型，替換all_training_lyrics.txt，逗點用空白隔開，換行分句，^換文本，可用中文   
+https://github.com/python-engineer/python-fun/blob/master/moviepicker/main.py  
+IMDB.ipynb-爬IMDB  
 
 ## 語音
 https://free.com.tw/lalal-ai/  
